@@ -1,0 +1,4 @@
+com.github.smallru8.plugin.msgclr.MsgClr
+MsgClr Help:
+    /msgclr on|off : Auto clear cmd message on|off.
+    /clr <n> : Clear n messages which sent by this bot.
